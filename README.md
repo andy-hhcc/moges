@@ -1,7 +1,8 @@
 ## Development instruction
-1. Run `make install` to install dependencies
-2. Run `go run main.go` to start running the local server
-3. App will run on port `8080`
+1. Create database monges in mysql
+2. Run `make install` to install dependencies
+3. Run `go run main.go` to start running the local server
+4. App will run on port `8080`
 
 ## Build instruction and run
 1. Run `make build`
