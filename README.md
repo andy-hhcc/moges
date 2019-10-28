@@ -1,5 +1,5 @@
 ## Development instruction
-1. Create database monges in mysql
+1. Create database `moges` in mysql
 2. Run `make install` to install dependencies
 3. Run `go run main.go` to start running the local server
 4. App will run on port `8080`
