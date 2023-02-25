@@ -10,8 +10,7 @@ require (
 	github.com/subosito/gotenv v1.1.1 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
 	github.com/x-cray/logrus-prefixed-formatter v0.5.2
-	golang.org/x/sys v0.0.0-20190712062909-fae7ac547cb7 // indirect
-	gopkg.in/asn1-ber.v1 v1.0.0-20181015200546-f715ec2f112d // indirect
+	golang.org/x/sys v0.1.0 // indirect
 	gopkg.in/go-playground/validator.v8 v8.18.2
 )
 
